@@ -16,7 +16,7 @@ Muhammad Syafiq Ibrahim (L0122116)
 ------------------------------------------------------
 **Cara Kerja**
 1. Unduh Semua File
-2. Pastikan Anda Mempunyai Aplikasi DEV C++
+2. Pastikan Anda Mempunyai Aplikasi DEV C++ lalu buka "Project1.dev"
 3. Pilih Menu "Project" -> "Project Options" -> "Directories"
 4. Cek Path Libraby dan Include SMFL-2.4.2 yang Berada di Laptop Anda
 5. Dan Sesuaikan dan Oke
